@@ -1,0 +1,65 @@
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\appsettings.json
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\NotesAPI.exe
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\NotesAPI.deps.json
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\NotesAPI.runtimeconfig.json
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\NotesAPI.dll
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\NotesAPI.pdb
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.csproj.AssemblyReference.cache
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.AssemblyInfoInputs.cache
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.AssemblyInfo.cs
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\staticwebassets\msbuild.NotesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\staticwebassets\msbuild.build.NotesAPI.props
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NotesAPI.props
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NotesAPI.props
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\scopedcss\bundle\NotesAPI.styles.css
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.csproj.Up2Date
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.dll
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\refint\NotesAPI.dll
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.pdb
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\NotesAPI.genruntimeconfig.cache
+C:\Users\Boss\desktop\myprojects\testtask\notesapi\notesapi\obj\Debug\net8.0\ref\NotesAPI.dll
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\NotesAPI.exe
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\NotesAPI.deps.json
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\NotesAPI.runtimeconfig.json
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\NotesAPI.dll
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\NotesAPI.pdb
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.csproj.AssemblyReference.cache
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.AssemblyInfoInputs.cache
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.AssemblyInfo.cs
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.sourcelink.json
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\staticwebassets\msbuild.NotesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.NotesAPI.props
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NotesAPI.props
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NotesAPI.props
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\scopedcss\bundle\NotesAPI.styles.css
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.csproj.Up2Date
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.dll
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\refint\NotesAPI.dll
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.pdb
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\NotesAPI.genruntimeconfig.cache
+C:\Users\Boss\Desktop\myProjects\TestTask\Notes - Copy\NotesAPI\obj\Debug\net8.0\ref\NotesAPI.dll

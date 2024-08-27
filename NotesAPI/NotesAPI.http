@@ -1,0 +1,32 @@
+@NotesAPI_HostAddress = http://localhost:5111
+
+GET {{NotesAPI_HostAddress}}/notes
+Accept: application/json
+
+###
+
+GET {{NotesAPI_HostAddress}}/notes/2
+Accept: application/json
+
+###
+
+POST {{NotesAPI_HostAddress}}/notes
+Content-Type: application/json
+{
+  "NoteText": "Test"
+}
+
+###
+
+PUT {{NotesAPI_HostAddress}}/notes/2
+Content-Type: application/json
+{
+  "Id": 2,
+  "NoteText": "Test"
+}
+
+###
+
+DELETE {{NotesAPI_HostAddress}}/notes/2
+
+###
