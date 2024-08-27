@@ -1,0 +1,33 @@
+{
+  "HOME": {
+    "TITLE": "Notes",
+    "SUBMIT": "Submit",
+    "INSERTED": "Inserted successfully",
+    "UPDATED": "Updated successfully",
+    "DELETED": "Deleted successfully",
+    "ERROR": "Error",
+    "NOTE": {
+      "TITLE": "Text",
+      "PLACEHOLDER": "Enter Text Here..."
+    }
+  },
+  "BUTTON": {
+    "LANG": {
+      "SELECT": "Language",
+      "ES": "Español",
+      "UA": "Українська",
+      "EN": "English"
+    }
+  },
+  "TOASTR": {
+    "NOTE_DETAIL_REGISTER": "Note Detail Register",
+    "SUCCESS": {
+      "INSERT": "Inserted Successfully",
+      "UPDATE": "Updated Successfully"
+    },
+    "ERROR": {
+      "INSERT": "Error inserting note",
+      "UPDATE": "Error updating note"
+    }
+  }
+}

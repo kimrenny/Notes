@@ -1,0 +1,33 @@
+{
+  "HOME": {
+    "TITLE": "Notas",
+    "SUBMIT": "Enviar",
+    "INSERTED": "Insertado con éxito",
+    "UPDATED": "Actualizado con éxito",
+    "DELETED": "Eliminado con éxito",
+    "ERROR": "Error",
+    "NOTE": {
+      "TITLE": "Texto",
+      "PLACEHOLDER": "Introduzca el texto aquí..."
+    }
+  },
+  "BUTTON": {
+    "LANG": {
+      "SELECT": "Idioma",
+      "EN": "English",
+      "UA": "Українська",
+      "ES": "Español"
+    }
+  },
+  "TOASTR": {
+    "NOTE_DETAIL_REGISTER": "Registro de detalles de nota",
+    "SUCCESS": {
+      "INSERT": "Insertado correctamente",
+      "UPDATE": "Actualizado correctamente"
+    },
+    "ERROR": {
+      "INSERT": "Error al insertar nota",
+      "UPDATE": "Error al actualizar nota"
+    }
+  }
+}

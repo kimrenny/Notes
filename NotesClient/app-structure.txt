@@ -1,0 +1,12 @@
+src
+├── app
+│   ├── note-details
+│   │   ├── note-details.component.ts|.html
+│   │   └── note-details-form
+│   │       └── note-details-form.component.ts|.html
+│   ├── shared
+│   │   ├── note-detail.service.ts
+│   │   └── note-detail.model.ts
+│   └──  app.module.ts
+├── styles.scss (global scss rules)
+└── index.html (cdn path for bootstrap & fa icons)

@@ -1,0 +1,27 @@
+<form
+  #form="ngForm"
+  (submit)="onSubmit(form)"
+  [class.submitted]="formSubmitted"
+  novalidate
+  autocomplete="off"
+>
+  <input type="hidden" name="id" [value]="formData.id" />
+  <div class="mb-3">
+    <label>{{ "HOME.NOTE.TITLE" | translate }}</label>
+    <textarea
+      class="form-control form-control-lg"
+      placeholder="{{ 'HOME.NOTE.PLACEHOLDER' | translate }}"
+      #noteText="ngModel"
+      name="noteText"
+      [(ngModel)]="formData.noteText"
+      required
+      minlength="2"
+      rows="4"
+    ></textarea>
+  </div>
+  <div class="d-grid">
+    <button class="btn btn-lg btn-success" type="submit">
+      {{ "HOME.SUBMIT" | translate }}
+    </button>
+  </div>
+</form>
