@@ -23,11 +23,16 @@
     "NOTE_DETAIL_REGISTER": "Registro de detalles de nota",
     "SUCCESS": {
       "INSERT": "Insertado correctamente",
-      "UPDATE": "Actualizado correctamente"
+      "UPDATE": "Actualizado correctamente",
+      "DELETE": "Eliminado exitosamente"
     },
     "ERROR": {
       "INSERT": "Error al insertar nota",
-      "UPDATE": "Error al actualizar nota"
+      "UPDATE": "Error al actualizar nota",
+      "DELETE": "Error al eliminar la nota"
     }
+  },
+  "CONFIRM": {
+    "DELETE": "¿Estás seguro de eliminar este registro?"
   }
 }
