@@ -23,11 +23,16 @@
     "NOTE_DETAIL_REGISTER": "Note Detail Register",
     "SUCCESS": {
       "INSERT": "Inserted Successfully",
-      "UPDATE": "Updated Successfully"
+      "UPDATE": "Updated Successfully",
+      "DELETE": "Deleted Successfully"
     },
     "ERROR": {
       "INSERT": "Error inserting note",
-      "UPDATE": "Error updating note"
+      "UPDATE": "Error updating note",
+      "DELETE": "Error deleting note"
     }
+  },
+  "CONFIRM": {
+    "DELETE": "Are you sure to delete this record?"
   }
 }
