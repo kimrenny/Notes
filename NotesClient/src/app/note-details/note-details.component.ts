@@ -42,15 +42,20 @@ export class NoteDetailsComponent implements OnInit {
   }
 
   onDelete(id: number) {
-    if (confirm('Are you sure to delete this record?'))
+    const confirmMessage = this.translate.instant('CONFIRM.DELETE');
+    if (confirm(confirmMessage))
       this.store.dispatch(new DeleteNote({ id })).subscribe({
         next: () => {
           this.store.dispatch(new LoadNotes());
-          this.toastr.success('Deleted successfully', 'Note Detail Register');
+          const message = this.translate.instant('TOASTR.SUCCESS.DELETE');
+          const title = this.translate.instant('TOASTR.NOTE_DETAIL_REGISTER');
+          this.toastr.success(message, title);
         },
         error: (err) => {
           console.log(err);
-          this.toastr.error('Error deleting note', 'Note Detail Register');
+          const message = this.translate.instant('TOASTR.ERROR.DELETE');
+          const title = this.translate.instant('TOASTR.NOTE_DETAIL_REGISTER');
+          this.toastr.error(message, title);
         },
       });
   }
