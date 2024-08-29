@@ -2,7 +2,7 @@ import { State, Action, StateContext, Selector } from '@ngxs/store';
 import { Injectable } from '@angular/core';
 import { NoteDetailService } from './note-detail.service';
 import { NoteDetail } from './note-detail.model';
-import { tap } from 'rxjs/operators';
+import { catchError, tap } from 'rxjs/operators';
 import {
   LoadNotes,
   AddNote,
@@ -10,17 +10,18 @@ import {
   DeleteNote,
   SetFormData,
 } from './note.actions';
+import { throwError } from 'rxjs';
 
 export interface NoteStateModel {
   notes: NoteDetail[];
-  formData: NoteDetail;
+  formData: NoteDetail | null;
 }
 
 @State<NoteStateModel>({
   name: 'note',
   defaults: {
     notes: [],
-    formData: new NoteDetail(),
+    formData: null,
   },
 })
 @Injectable()
@@ -65,12 +66,17 @@ export class NoteState {
     return this.noteService
       .putNoteDetail(action.payload.id, action.payload.note)
       .pipe(
-        tap((updatedNote: NoteDetail) => {
+        tap(() => {
           const state = ctx.getState();
+          const updatedNote = action.payload.note;
           const notes = state.notes.map((note) =>
-            note.id === updatedNote.id ? updatedNote : note
+            note && note.id === updatedNote.id ? updatedNote : note
           );
           ctx.patchState({ notes });
+        }),
+        catchError((error) => {
+          console.error('Error during note update:', error);
+          return throwError(() => error);
         })
       );
   }
